@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\MethodsConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFB34F5-DC14-4FAD-824E-0C547EC02CE3}|MethodsConsoleApp\\MethodsConsoleApp.csproj|d:\\c#\\methodsconsoleapp\\methodsconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AFB34F5-DC14-4FAD-824E-0C547EC02CE3}|MethodsConsoleApp\\MethodsConsoleApp.csproj|solutionrelative:methodsconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF30C26-21C8-4956-8014-2CAA6E629312}|Exercise2ConsoleApp\\Exercise2ConsoleApp.csproj|d:\\c#\\methodsconsoleapp\\exercise2consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF30C26-21C8-4956-8014-2CAA6E629312}|Exercise2ConsoleApp\\Exercise2ConsoleApp.csproj|solutionrelative:exercise2consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{93c5e7ad-af06-49e6-a756-b8f3eaca790d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\MethodsConsoleApp\\MethodsConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "MethodsConsoleApp\\Program.cs",
+              "ToolTip": "D:\\C#\\MethodsConsoleApp\\MethodsConsoleApp\\Program.cs",
+              "RelativeToolTip": "MethodsConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:38:09.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\MethodsConsoleApp\\Exercise2ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise2ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\C#\\MethodsConsoleApp\\Exercise2ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Exercise2ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:52:47.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

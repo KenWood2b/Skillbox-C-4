@@ -1,0 +1,7 @@
+D:\C#\MethodsConsoleApp\MethodsConsoleApp\bin\Debug\MethodsConsoleApp.exe.config
+D:\C#\MethodsConsoleApp\MethodsConsoleApp\bin\Debug\MethodsConsoleApp.exe
+D:\C#\MethodsConsoleApp\MethodsConsoleApp\bin\Debug\MethodsConsoleApp.pdb
+D:\C#\MethodsConsoleApp\MethodsConsoleApp\obj\Debug\MethodsConsoleApp.csproj.AssemblyReference.cache
+D:\C#\MethodsConsoleApp\MethodsConsoleApp\obj\Debug\MethodsConsoleApp.csproj.CoreCompileInputs.cache
+D:\C#\MethodsConsoleApp\MethodsConsoleApp\obj\Debug\MethodsConsoleApp.exe
+D:\C#\MethodsConsoleApp\MethodsConsoleApp\obj\Debug\MethodsConsoleApp.pdb
